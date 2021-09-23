@@ -3,7 +3,7 @@
 
 Resume:  [Lereko Qholosha Resume](https://drive.google.com/file/d/1HGb_3A0BOWniEOEXmf9VmDu_oYcL6MLZ/view?usp=sharing) (PDF download)
 
-<!--
+
 **lerekoqholosha/lerekoqholosha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;analysis:I enjoy playing with data : [](https://youtu.be/46Hjxefaj9U)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🍂: My favorite season is fall :smile: <br>
--->
+
 
