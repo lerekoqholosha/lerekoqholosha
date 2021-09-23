@@ -1,14 +1,14 @@
 <img src="https://images.unsplash.com/photo-1528413538163-0e0d91129480?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGFuYWx5c3R8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"/>
-###Hi there 👋, I'm Lereko Qholosha. I'm a data scientist and technical writer. Welcome to my gh page! <br>
+###Hi there 👋, I'm Lereko Qholosha. I'm a data scientist and data science blogs writer. Welcome to my gh page! <br>
 
 Resume:  [Lereko Qholosha Resume](https://drive.google.com/file/d/1HGb_3A0BOWniEOEXmf9VmDu_oYcL6MLZ/view?usp=sharing) (PDF download)
 
 
 <!-- **lerekoqholosha/lerekoqholosha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on*:  Articles about data analysis,machine learning and projects/Hackathons. Here are some examples of what I have been writing on: <br>
+- 🔭 I’m currently working on*:Articles about data analysis,machine learning and projects/Hackathons. Here are some examples of what I have been writing on: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exploratory Data Analysis](https://lerekoqholosha9.medium.com/exploratory-data-analysis-using-python-functions-67faf725f08)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Principal Data Analysis](https://lerekoqholosha9.medium.com/principal-component-analysis-pca-part1-47fa40800d1e)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Collecting data twitter](https://lerekoqholosha9.medium.com/how-to-extract-twitter-data-using-twitter-api-8ce20b2f3815)<br>
