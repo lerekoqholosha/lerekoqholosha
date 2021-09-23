@@ -1,5 +1,5 @@
 <img src="https://images.unsplash.com/photo-1528413538163-0e0d91129480?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGFuYWx5c3R8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"/>
-###Hi there 👋, I'm Lereko Qholosha. I'm a data scientist and data science blogs writer. Welcome to my gh page! <br>
+### Hi there 👋, I'm Lereko Qholosha. I'm a data scientist and data science blogs writer. Welcome to my gh page! <br>
 
 Resume:  [Lereko Qholosha Resume](https://drive.google.com/file/d/1HGb_3A0BOWniEOEXmf9VmDu_oYcL6MLZ/view?usp=sharing) (PDF download)
 
@@ -17,8 +17,8 @@ Resume:  [Lereko Qholosha Resume](https://drive.google.com/file/d/1HGb_3A0BOWniE
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data preprocessing with pandas](https://lerekoqholosha9.medium.com/data-preprocessing-with-pandas-23728a06cec5)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [How to deal with Imbalanced data in classification](https://lerekoqholosha9.medium.com/random-oversampling-and-undersampling-for-imbalanced-classification-a4aad406fd72)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [How to scrape articles from websites](https://lerekoqholosha9.medium.com/how-to-scrape-articles-from-website-74d27ed515c9)<br>
-- 🌱 I’m currently learning*: Deep-Learning with tenserflow and Dash python library<br>
-- 👯 I’m looking to collaborate on*: I'm looking to collaborate with other data scientists enthusiasts to solve problems.
+- 🌱 I’m currently learning: Deep-Learning with tenserflow and Dash python library<br>
+- 👯 I’m looking to collaborate on: I'm looking to collaborate with other data scientists enthusiasts to solve problems.
 - 🤔 Looking for help*: I'm looking for help with trying to find my first data science job or Internship and Volunteering.<br>
 - 💬 Ask me about: how to build machine learning model,data analysis ,querry data,visualize data,model deployment,creating a portfolio,writting blogs, or assistance with an project you are working on. <br>
 - 📫 How to reach me: <br>
