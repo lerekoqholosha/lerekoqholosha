@@ -1,3 +1,5 @@
+from marcel.savegnago import me as Me
+
 class About(Me):
 
     def get_code_knowledge(self):
