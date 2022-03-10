@@ -1,4 +1,3 @@
-from marcel.savegnago import me as Me
 
 class About(Me):
 
@@ -12,14 +11,33 @@ class About(Me):
         return ['Odoo', 'Design Patterns']
 
     def get_daily_tools(self):
-        return ['Odoo', 'Pycharm', 'Git', 'Windows']
+        return ['Odoo', 'Pycharm','Visual Studio Code', 'Git', 'Windows']
 
     def get_current_work(self):
         return {
             'company': 'Bits n Bytes',
             'position': 'Software Support, Sales and Account Manager,and Odoo Developer',
-            'website': 'https://www.prys.co.za/.br'
+            'website': 'https://www.prys.co.za/'
         }
 
+
+    def get_part_work(self):
+        return {
+         'company':'Melium',
+         'position':'Freelancer',
+         'website':'https://lerekoqholosha9.medium.com/'
+         
+         
+    def get_skills(self):
+        return {
+         'Data Science:['Cleaning','Wrangling','Web Scraping','Statistics','Probability','Hypothesis Testing','Excel'Access','Git','Query Data'],
+         'Machine Learning':['Regression','Classification','Unsupervised Learning'],
+         'Deep Learning':['DL(Regression)','DL(Classification)','CNN','RNN','ANN'],
+         'Data Visualization Tools':['Tableau','Power BI','DataStudio','Python Libraries'],
+         'Editors&Nootebooks':['VsCode','google Colab','Spider','Jupyter nootebook','replit'],
+         }
+         
+         
+         
 
 
