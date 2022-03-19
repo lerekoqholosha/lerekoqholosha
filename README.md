@@ -73,9 +73,9 @@ I am a Developer and Data Scientist<img src="https://media.giphy.com/media/WUlpl
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lerekoqholosha&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lerekoqholosha&theme=dark&background=000000)](https://github.com/lerekoqholosha)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lerekoqholosha&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lerekoqholosha&layout=compact&theme=vision-friendly-dark)](https://github.com/lerekoqholosha)
 
 ---
 
