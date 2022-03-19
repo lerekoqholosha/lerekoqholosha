@@ -1,42 +1,18 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/lereko-qholosha-7b22831b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCF4Vq8APHw97Kqcgn3ggRQw/">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/LerekoQholosha">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-class About(Me):
-
-    def get_code_knowledge(self):
-        return ['Python', 'Shell', 'HTML', 'CSS']
-
-    def get_database_knowledge(self):
-        return ['PostgreSql', 'TS-Sql', 'SQL Server']
-
-    def get_current_learning(self):
-        return ['Odoo', 'Design Patterns']
-
-    def get_daily_tools(self):
-        return ['Odoo', 'Pycharm','Visual Studio Code', 'Git', 'Windows']
-
-    def get_current_work(self):
-        return {
-            'company': 'Bits n Bytes',
-            'position': 'Software Support, Sales and Account Manager,and Odoo Developer',
-            'website': 'https://www.prys.co.za/'
-        }
-
-
-    def get_part_work(self):
-        return {
-         'company':'Melium',
-         'position':'Freelancer',
-         'website':'https://lerekoqholosha9.medium.com/'
-         
-         
-    def get_skills(self):
-        return {
-         'Data Science:['Cleaning','Wrangling','Web Scraping','Statistics','Probability','Hypothesis Testing','Excel'Access','Git','Query Data'],
-         'Machine Learning':['Regression','Classification','Unsupervised Learning'],
-         'Deep Learning':['DL(Regression)','DL(Classification)','CNN','RNN','ANN'],
-         'Data Visualization Tools':['Tableau','Power BI','DataStudio','Python Libraries'],
-         'Editors&Nootebooks':['VsCode','google Colab','Spider','Jupyter nootebook','replit'],
-         }
-         
          
          
 
