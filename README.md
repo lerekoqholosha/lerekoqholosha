@@ -30,8 +30,8 @@
 ### :man_technologist: About Me :
 I am a Developer and Data Scientist<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
 
-- :telescope: I’m working as a Developer,Account Manager and contributing to frontend and backend at Prys Accounting.
-- - :telescope: I’m working as a Data Scientist and Director at DataSpeak.
+- :telescope: I’m working as a Developer and Account Manager at Prys Accounting.
+- :telescope: I’m working as a Data Scientist and Director at DataSpeak.
 
 - :seedling: Exploring Technical Content Writing.
 
