@@ -30,8 +30,8 @@
 ### :man_technologist: About Me :
 I am a  Data Scientist<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
 
-- :telescope: I’m working as a Developer.
-- :telescope: I’m working as a Freelancer Data Scientist.
+- :telescope: I’m a data Scientist.
+- :telescope: I have experience working as python developer and software support at accounting company,data scientist at ecommerce company,data manager non profit,team lead data scientist at digital academy.
 
 - :seedling: Exploring Technical Content Writing.
 
