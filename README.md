@@ -31,7 +31,7 @@
 I am a  Data Scientist<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
 
 - :telescope: I’m a data Scientist.
-- :telescope: I have experience working as python developer and software support at accounting company,data scientist at ecommerce company,data manager non profit,team lead data scientist at digital academy.
+- :telescope: I have experience working as python developer and software support at accounting company,data scientist at ecommerce company,data manager non profit,team data scientist mentor at digital academy.
 
 - :seedling: Exploring Technical Content Writing.
 
